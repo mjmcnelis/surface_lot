@@ -7,6 +7,6 @@ Last edited on 6/1/2021 by Mike McNelis
 
 Predicting the occupancy of surface lots with convolutional neural networks.
 
-This repository is a project I did for a data science course at Ohio State. The Jupyter notebooks train neural nets (FCN or CNN) on mock satellite images of surface lots. 
+This repository is a project I did for a data science course at Ohio State. The Jupyter notebooks train neural networks (FCN or CNN) on mock satellite images of surface lots. 
 
-The training data consists of simple computer-generated images of surface lots. These images are then randomly tagged to label the occupancy of the parking spaces.
+The training data consists of simple computer-generated images of surface lots (due to data and computational constraints). These images are then randomly tagged to label the occupancy of the parking spaces.
